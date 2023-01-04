@@ -1,0 +1,1 @@
+- [huggingface/deep-rl-class](https://github.com/huggingface/deep-rl-class#the-hugging-face-deep-reinforcement-learning-class-)
